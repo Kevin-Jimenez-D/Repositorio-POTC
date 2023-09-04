@@ -2,6 +2,9 @@
 # Proyecto de piratas del caribe
 # Kevin Johan Jimenez Delgado
 
+# Nota:
+El archivo que se debe abrir es el index.html, con eso ya se puede acceder a todo el proyecto en general
+
 # Diseño
 ## Inicio
 - En primer lugar se agrega una página de inicio, como se puede ver en el siguiente link y de la cual se explicará el diseño:
