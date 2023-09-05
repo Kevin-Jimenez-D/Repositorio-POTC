@@ -48,6 +48,11 @@ img{
     /*width: 50%;                  Tachada */
 }
 
+img:hover{
+    border-style: inset;
+    border-radius: 50%;
+}
+
 
 
 /* Estilos responsivos */
