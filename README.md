@@ -38,4 +38,5 @@ https://raw.githubusercontent.com/Kevin-Jimenez-D/Repositorio-POTC/master/img/re
 - Se basará en el diseño de las películas para no alterar el orden del diseño, la imagen, junto con su respectivo texto rodeandola y otro texto para complementar, con diseño responsivo
   se pondrán en bloque.
 
-``` https://github.com/Kevin-Jimenez-D  ```
+En caso de no funcionar los link de las imagenes, ver el diseño en el siguiente link
+``` https://jamboard.google.com/d/1LNrYcwYdJb0dCTb0v6juCbQsV0WWcZJGJLywlqLNhOg/edit?usp=sharing  ```
