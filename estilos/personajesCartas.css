@@ -24,10 +24,11 @@ body {
     margin-right: 20px;
     margin-left: 20px;
     text-align: center;
+    color: #fff;
 }
 
 img{
-    height: 168px;    /*168px;   imagene minima que hay */
+    height: 100%;    /*168px;   imagene minima que hay */
     width: auto;
 }
 
