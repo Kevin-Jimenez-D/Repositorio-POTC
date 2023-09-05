@@ -13,6 +13,7 @@ body {
     display: flex;
     /*flex-wrap: wrap;  Que se vean en linea*/
     justify-content: space-between;
+    text-align: justify;
 }
 
 .left-section {
